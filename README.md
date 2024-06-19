@@ -82,8 +82,8 @@ Mysql
 ## DB設計書
 [DB設計書フォーマット](https://docs.google.com/spreadsheets/d/1B1nc1Ph5z8VrQRPQkvKff_hW7ob1FIU-JzBKjVmkekk/edit?usp=sharing)
 
-## チートシート
-[本当に困った時だけ見て下さい](https://drive.google.com/file/d/1JYzOUou-Q7kvmN9kOscAO-JXiDU-B1iL/view?usp=sharing)
+<!-- ## チートシート
+[本当に困った時だけ見て下さい](https://drive.google.com/file/d/1JYzOUou-Q7kvmN9kOscAO-JXiDU-B1iL/view?usp=sharing) -->
 
 
 ## Laravel document
